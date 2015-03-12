@@ -10,6 +10,3 @@ Usage :
 - [It's time to try.](http://rawgit.com/c4software/kml-area-exporter/master/index.html)
 
 ![Alt text](/capture.png?raw=true "KML Extract")
-
-The only usefull link… [DEMO](http://rawgit.com/c4software/kml-area-exporter/master/index.html)
-
